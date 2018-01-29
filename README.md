@@ -19,3 +19,5 @@ document and attach the snippet below to your style sheet.
     box-shadow: 0 0 20px 0 rgba(0,0,0,.50) inset, 0 5px 10px 5px rgba(0,0,0,.50);
 }
 ```
+
+![pictureframe](https://github.com/kairaygun/picture_frame/blob/master/picture_frame_mock.png)
