@@ -53,7 +53,6 @@ body {
     background-repeat: repeat;
 }
 
-
 .flex-container {
     align-items: center;
     display: flex;
@@ -61,7 +60,6 @@ body {
     justify-content: center;
     width: 100%;
 }
-
 
 .flex-item {
 	background-color: white;
