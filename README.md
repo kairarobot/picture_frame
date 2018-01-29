@@ -1,5 +1,7 @@
 # Picture Frame
 
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/mit-license-brightgreen.svg" alt="mit license"></a>
+
 An implementation of CSS to emulate a picture frame hanging on a wall.
 Rule of thumb: bottom border has the lightest hue, the left and right borders have 
 medium hues, and the top border has the darkest hue.
