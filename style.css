@@ -62,13 +62,12 @@ body {
 }
 
 .flex-item {
-	background-color: white;
+    background-color: white;
     /* credits to georgia o' keefe for the bg */
     background-image: url('http://alexgeorgiaokeeffeartproject.weebly.com/uploads/1/3/5/9/13594901/4245210_orig.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-	font-family: nicholson;
     height: 300px;
     width: 300px;
 }
