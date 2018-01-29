@@ -1,0 +1,87 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    /* credits to http://patternvomit.tumblr.com/ for the bg */
+    background: url('http://78.media.tumblr.com/6be4acb73eeeb1520f0e3f12d37b780e/tumblr_nbp7n9diuC1qzqghro1_500.jpg');
+    background-repeat: repeat;
+}
+
+
+.flex-container {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.flex-item {
+	background-color: white;
+    /* credits to georgia o' keefe for the bg */
+    background-image: url('http://alexgeorgiaokeeffeartproject.weebly.com/uploads/1/3/5/9/13594901/4245210_orig.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	font-family: nicholson;
+    height: 300px;
+    width: 300px;
+}
+
+.frame {
+    background-color: #d3dadd;
+    border: solid 4vmin #847f95;
+    border-bottom-color: #847f95;
+    border-left-color: #716c85;
+    border-radius: 2px;
+    border-right-color: #716c85;
+    border-top-color: #565268;
+    box-shadow: 0 0 20px 0 rgba(0,0,0,.50) inset, 0 5px 10px 5px rgba(0,0,0,.50);
+}
