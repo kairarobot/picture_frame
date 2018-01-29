@@ -21,3 +21,6 @@ document and attach the snippet below to your style sheet.
 ```
 
 ![pictureframe](https://github.com/kairaygun/picture_frame/blob/master/picture_frame_mock.png)
+
+Background credits to: /patternvomit.tumblr.com
+Image credits to: Georgia O' Keefe
