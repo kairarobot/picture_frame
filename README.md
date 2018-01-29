@@ -1,7 +1,7 @@
 # Picture Frame
 
-An implementation of CSS to emulate a picture frame hanging on the wall.
-The bottom border has the lightest hue, the left and right borders have 
+An implementation of CSS to emulate a picture frame hanging on a wall.
+Rule of thumb: bottom border has the lightest hue, the left and right borders have 
 medium hues, and the top border has the darkest hue.
 
 To apply this frame to an element, add the class "frame" in your HTML
